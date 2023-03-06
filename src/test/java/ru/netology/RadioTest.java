@@ -237,7 +237,6 @@ class RadioTest {
     }
 
 
-
     @Test
     public void testNextStationMax() {
         Radio radio = new Radio();
@@ -395,19 +394,6 @@ class RadioTest {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+}
 
 
